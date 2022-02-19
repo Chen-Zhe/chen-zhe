@@ -3,7 +3,7 @@
 Visit my [personal website](https://chen-zhe.github.io) to know more about me.
 
 ![Zhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chen-zhe&show_icons=true) 
-![Zhe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-zhe)
+<!-- ![Zhe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-zhe) -->
 
 <!--
 **Chen-Zhe/chen-zhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
